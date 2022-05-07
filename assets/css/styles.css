@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.input__nc {
+    max-width: 20rem;
+}
+.input__n {
+    max-width: 8rem;
+} 
